@@ -26,6 +26,60 @@ export default function App() {
       alignItems={"stretch"}
       space={1}
       padding={0}
-    ></Stack>
+    >
+      <Box
+        data-reframe-id="63775f41-c11c-4219-95f2-dfdf3a530450"
+        padding={"$1"}
+        borderWeight={0}
+        borderRadius={0}
+        shadow={0}
+        grow={false}
+        backgroundColor={"transparent"}
+        backgroundImage={""}
+      >
+        <Text
+          data-reframe-id="7db979d4-40ca-4a7f-bd5a-740695341a9b"
+          h1={false}
+          h2={false}
+          h3={false}
+          h4={false}
+          h5={false}
+          h6={false}
+          b={false}
+          small={false}
+          transform={"none"}
+          i={false}
+          span={false}
+          del={false}
+          em={false}
+          blockquote={false}
+          color={"default"}
+          align={"left"}
+        >
+          a
+        </Text>
+        <Text
+          data-reframe-id="774e28c7-7215-4d5e-99b0-bd0e2a84fc84"
+          h1={false}
+          h2={false}
+          h3={false}
+          h4={false}
+          h5={false}
+          h6={false}
+          b={false}
+          small={false}
+          transform={"none"}
+          i={false}
+          span={false}
+          del={false}
+          em={false}
+          blockquote={false}
+          color={"default"}
+          align={"left"}
+        >
+          c
+        </Text>
+      </Box>
+    </Stack>
   );
 }
